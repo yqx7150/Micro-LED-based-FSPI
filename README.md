@@ -2,7 +2,7 @@
 
 ## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
 
-![image1](fig/fig1.png)
+![image1](fig/fig.1.png)
 
 ## The actual PAT system
 
