@@ -1,6 +1,6 @@
 # Micro-LED-based-FSPI
 
-## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
+## The Micro-LED-based system
 
 ![image1](fig/fig.1.png)
 
