@@ -20,8 +20,7 @@
 ## Iterative process of the coin (cropped region) under the turbidity of 4.0 NTU and 6.4 NTU
 
 ![image6](fig/fig.6.png)
-## Reconstruction results of the coin region images under the different NTU turbidity
-levels
+## Reconstruction results of the coin region images under the different NTU turbidity levels
 
 ![image7](fig/fig.7.png)
 
