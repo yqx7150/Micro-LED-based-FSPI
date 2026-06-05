@@ -4,23 +4,24 @@
 
 ![image1](fig/fig.1.png)
 
-## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
+## Flowchart of high-quality iterative reconstruction based on the diffusion model
 
 ![image2](fig/fig.2.png)
 
-## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
+## Imaging results of the Micro-LED-based system at the sampling rate of 1.67%
 
 ![image3](fig/fig.3.png)
-## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
+## FSPI underwater system
 
 ![image4](fig/fig.4.png)
-## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
+## The underwater imaging results of the coin obtained by FSPI at the sampling rate of 1.67%
 
 ![image5](fig/fig.5.png)
-## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
+## Iterative process of the coin (cropped region) under the turbidity of 4.0 NTU and 6.4 NTU
 
 ![image6](fig/fig.6.png)
-## Sparse view PAT reconstruction based on alternating cyclic iteration of wavelet refinement multi-diffusion model
+## Reconstruction results of the coin region images under the different NTU turbidity
+levels
 
 ![image7](fig/fig.7.png)
 
